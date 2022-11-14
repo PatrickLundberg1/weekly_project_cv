@@ -1,0 +1,20 @@
+
+#main_title {
+    text-align: right;
+    color: darkcyan;
+    border-bottom-style: solid;
+}
+
+.descriptive {
+    color: darkcyan;
+    font-size: small;
+}
+
+.section_title {
+    color: darkcyan;
+    border-bottom-style: solid;
+}
+
+.inline_title {
+    font-weight: bold;
+}
